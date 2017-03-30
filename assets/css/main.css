@@ -11,14 +11,6 @@ body{
 	margin:auto;
 	margin-top: 50px;
 }
-.brightness{
-	-webkit-filter: brightness(0.30);
-	filter: brightness(60%);
-}
-.contrast{
-	-webkit-filter: contrast(180%);
-	filter: contrast(50%);
-}
 .grayscale{
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
